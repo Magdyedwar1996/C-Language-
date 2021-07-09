@@ -1,5 +1,5 @@
 /****************************************************************/
-/* Auter   	   : Magdy Edwar 								*/											*/
+/* Auther   	   : Magdy Edwar 								*/											*/
 /* Date    	   : 5 Jul 											*/
 /* Discription :this code is to find the even and odd numbers */ 				                  			*/
 /****************************************************************/
