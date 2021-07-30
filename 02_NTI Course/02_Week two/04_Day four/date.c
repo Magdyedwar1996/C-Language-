@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <conio.h>```````````````````````````````				````````````````11111111`												`
+#include <dos.h>
+int main()
+{
+   struct date d;
+
+   getdate(&d);
+
+   printf("Current system date: %d/%d/%d", d.da_day, d.da_mon, d.da_year);
+   getch();
+   return 0;
+}
