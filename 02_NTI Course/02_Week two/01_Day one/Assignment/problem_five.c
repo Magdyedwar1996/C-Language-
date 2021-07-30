@@ -33,7 +33,7 @@ void main ()
 	printf("The copied array : \n");
 	for (int  i = 0 ; i < ArraySize ; i++)
 	{
-		printf("%d ",arr1[i]);
+		printf("%d ",arr2[i]);
 	}
 
 }
