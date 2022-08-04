@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-char FirstRepeatedElement(char* string)
+void FirstRepeatedElement(char* string)
 {
 	int count[256]={0};
 	for (int i = 0; ; i++)
 		{
 			count[string[i]]++;
-			if(count[string[i]] == 2)
+			if(count[	[i]] == 2)
 			{
 				printf("The index of the first repeated character in the string is %d\n",i);
 				return string[i];
