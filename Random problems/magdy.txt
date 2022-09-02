@@ -1,0 +1,3 @@
+She is the this line means while the character that the pointer gets is not equal to 
+	 End of file;
+	 continue to read the characters from the file
